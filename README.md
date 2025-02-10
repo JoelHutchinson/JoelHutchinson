@@ -2,8 +2,7 @@
 
 ### 🚀 Full-Stack Web Developer | AI & ML Enthusiast  
 
-I'm a full-stack developer skilled in modern web technologies, cloud computing, and AI/ML. I specialize in building scalable applications and optimizing performance.
-
+I’m a full-stack developer with a strong background in web development, cloud platforms, and AI/ML.
 ---
 
 ### 🔧 Tech Stack  
