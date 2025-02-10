@@ -4,6 +4,8 @@
 
 I'm a full-stack developer skilled in modern web technologies, cloud computing, and AI/ML. I specialize in building scalable applications and optimizing performance.
 
+---
+
 ### 🔧 Tech Stack  
 
 **Frontend:**  
@@ -21,7 +23,8 @@ I'm a full-stack developer skilled in modern web technologies, cloud computing, 
 **Data Science & AI:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) ![AI](https://img.shields.io/badge/Artificial_Intelligence-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)  
 
+---
 
 ### 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/joel-hutchinson-1ba7a6128/)  
-- 📧 Email: joel.hutchinson2411@gmail.com
+- 📧 Email: [joel.hutchinson2411@gmail.com](mailto:joel.hutchinson2411@gmail.com)  
