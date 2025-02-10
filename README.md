@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Joel Hutchinson
 
-<!--
-**JoelHutchinson/JoelHutchinson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Full-Stack Web Developer | AI & ML Enthusiast  
 
-Here are some ideas to get you started:
+I'm a full-stack developer skilled in modern web technologies, cloud computing, and AI/ML. I specialize in building scalable applications and optimizing performance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack  
+**Frontend:** HTML5, CSS, JavaScript, TypeScript, Vue.js, Nuxt.js, React.js, Next.js, TailwindCSS  
+**Backend:** Node.js (Nitro, Express), PHP (Laravel)  
+**Databases:** PostgreSQL, MySQL  
+**DevOps & Cloud:** Git, Azure DevOps, Docker, AWS  
+**Data Science & AI:** Python (Pandas, Scikit-Learn), AI, ML  
+
+### 📌 Pinned Projects  
+🚀 **[Project Name 1](https://github.com/yourusername/project1)** – A full-stack Nuxt.js + PostgreSQL app  
+🔍 **[Project Name 2](https://github.com/yourusername/project2)** – Machine learning model for data analysis  
+
+### 📫 Connect with Me  
+- 🌐 [Portfolio Website](https://yourwebsite.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/joel-hutchinson-1ba7a6128/)  
+- 📧 Email: joel.hutchinson2411@gmail.com
