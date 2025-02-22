@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joel Hutchinson
 
-### 🚀 Full-Stack Web Developer | AI & ML Enthusiast  
+### 🚀 Full-Stack Web Developer
 
 I’m a full-stack developer with a strong background in web development, cloud platforms, and AI/ML.
 
