@@ -2,7 +2,7 @@
 
 ### 🚀 Web Developer
 
-I’m a full-stack developer with a strong background in web development, cloud platforms, and AI/ML.
+I’m a full-stack web developer with a strong background in AI/ML.
 
 ---
 
