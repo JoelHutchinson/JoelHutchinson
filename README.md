@@ -2,7 +2,7 @@
 
 ### 🚀 Web Developer
 
-I’m a full-stack web developer with a strong background in AI/ML.
+I’m a full-stack web developer with a strong background in AI/ML. [Learn more about me on my website.](https://joelhutchinson.com)
 
 ---
 
