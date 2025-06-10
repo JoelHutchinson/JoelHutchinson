@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joel Hutchinson
 
-I'm a full-stack web developer with a background in AI/ML. In my free time, I enjoy building chess-related software projects.  
+I'm a full-stack web developer. In my free time, I enjoy building chess-related software projects.  
 [If you are interested, you can find out more about me at joelhutchinson.com.](https://joelhutchinson.com)
 
 ---
