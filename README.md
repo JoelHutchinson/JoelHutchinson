@@ -9,7 +9,7 @@ If you are interested, you can find out more about me at [joelhutchinson.com](ht
 ### ♟️ Projects
 
 #### [ChessPecker](https://tacticspecker.com)
-A web app for solving chess puzzles in cycles.
+ChessPecker is an interactive web application designed for chess players to improve their tactical skills through the 'Woodpecker Method' - a structured training system predicated of spaced-repetition.
 
 ![ChessPecker Demo](https://joelhutchinson.com/chesspecker.gif)
 
