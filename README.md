@@ -6,6 +6,15 @@ If you are interested, you can find out more about me at [joelhutchinson.com](ht
 
 ---
 
+### ♟️ Projects
+
+#### [ChessPecker](https://tacticspecker.com)
+A web app for solving chess puzzles in cycles.
+
+![ChessPecker Demo](https://joelhutchinson.com/chesspecker.gif)
+
+---
+
 ### 🔧 Tech Stack  
 
 **Frontend:**  
